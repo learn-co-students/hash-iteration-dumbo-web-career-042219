@@ -1,4 +1,4 @@
-# Iterating Over Hashes With `#each`
+lea# Iterating Over Hashes With `#each`
 
 ## Overview
 
